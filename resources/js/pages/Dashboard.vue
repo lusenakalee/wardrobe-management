@@ -60,16 +60,16 @@ import {
                 <Card>
                     <CardHeader class="flex flex-row items-center justify-between space-y-0 pb-2">
                         <CardTitle class="text-sm font-medium">
-                            Sales
+                            Pending washing
                         </CardTitle>
                         <CreditCard class="h-4 w-4 text-muted-foreground" />
                     </CardHeader>
                     <CardContent>
                         <div class="text-2xl font-bold">
-                            +12,234
+                            10
                         </div>
                         <p class="text-xs text-muted-foreground">
-                            +19% from last month
+                            +3 from last week
                         </p>
                     </CardContent>
                 </Card>
@@ -78,7 +78,7 @@ import {
          <div class="min-h-[100vh] flex-1 rounded-xl  md:min-h-min" >
             <div class="bg-gray-50 py-24 sm:py-32">
     <div class="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
-      <h2 class="text-center text-base/7 font-semibold text-indigo-600">Deploy faster</h2>
+      <h2 class="text-center text-base/7 font-semibold text-indigo-600">Wardrobe Insights</h2>
       <p class="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-gray-950 sm:text-5xl">Everything you need to manage your wardrobe</p>
       <div class="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
         <div class="relative lg:row-span-2">
@@ -133,12 +133,12 @@ import {
               <div class="absolute top-10 right-0 bottom-0 left-10 overflow-hidden rounded-tl-xl bg-gray-900 shadow-2xl">
                 <div class="flex bg-gray-800/40 ring-1 ring-white/5">
                   <div class="-mb-px flex text-sm/6 font-medium text-gray-400">
-                    <div class="border-r border-b border-r-white/10 border-b-white/20 bg-white/5 px-4 py-2 text-white">NotificationSetting.jsx</div>
-                    <div class="border-r border-gray-600/10 px-4 py-2">App.jsx</div>
+                    <div class="border-r border-b border-r-white/10 border-b-white/20 bg-white/5 px-4 py-2 text-white">Todays Inspo</div>
+                    <div class="border-r border-gray-600/10 px-4 py-2">More</div>
                   </div>
                 </div>
                 <div class="px-6 pt-6 pb-14">
-                  <!-- Your code example -->
+                 <img src="https://www.uniqlo.com/jp/ja/contents/feature/common-lifewear/24fw-lifewear-magazine/assets/img/my-standard/img-content02_02.png" alt=""/>
                 </div>
               </div>
             </div>

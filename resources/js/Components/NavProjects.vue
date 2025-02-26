@@ -36,7 +36,7 @@ const { isMobile } = useSidebar()
 </script>
 
 <template>
-  <SidebarGroup class="group-data-[collapsible=icon]:hidden">
+  <!-- <SidebarGroup class="group-data-[collapsible=icon]:hidden">
     <SidebarGroupLabel>Projects</SidebarGroupLabel>
     <SidebarMenu>
       <SidebarMenuItem v-for="item in projects" :key="item.name">
@@ -81,5 +81,5 @@ const { isMobile } = useSidebar()
         </SidebarMenuButton>
       </SidebarMenuItem>
     </SidebarMenu>
-  </SidebarGroup>
+  </SidebarGroup> -->
 </template>
