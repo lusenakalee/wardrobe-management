@@ -53,21 +53,14 @@ const data = {
       isActive: true,
       items: [
         {
-          title: 'All Threads',
-          url: '/threads',
+          title: 'Dashboard',
+          url: '/dashboard',
         },
-        {
-          title: 'Starred',
-          url: '#',
-        },
-        {
-          title: 'Settings',
-          url: '#',
-        },
+       
       ],
     },
     {
-      title: 'Models',
+      title: 'All Threads',
       url: '#',
       icon: Bot,
       items: [
@@ -85,52 +78,8 @@ const data = {
         },
       ],
     },
-    {
-      title: 'Documentation',
-      url: '#',
-      icon: BookOpen,
-      items: [
-        {
-          title: 'Introduction',
-          url: '#',
-        },
-        {
-          title: 'Get Started',
-          url: '#',
-        },
-        {
-          title: 'Tutorials',
-          url: '#',
-        },
-        {
-          title: 'Changelog',
-          url: '#',
-        },
-      ],
-    },
-    {
-      title: 'Settings',
-      url: '#',
-      icon: Settings2,
-      items: [
-        {
-          title: 'General',
-          url: '#',
-        },
-        {
-          title: 'Team',
-          url: '#',
-        },
-        {
-          title: 'Billing',
-          url: '#',
-        },
-        {
-          title: 'Limits',
-          url: '#',
-        },
-      ],
-    },
+    
+   
   ],
   projects: [
     {
