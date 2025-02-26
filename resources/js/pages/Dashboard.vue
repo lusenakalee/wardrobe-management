@@ -79,7 +79,7 @@ import {
             <div class="bg-gray-50 py-24 sm:py-32">
     <div class="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
       <h2 class="text-center text-base/7 font-semibold text-indigo-600">Deploy faster</h2>
-      <p class="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-gray-950 sm:text-5xl">Everything you need to deploy your app</p>
+      <p class="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-gray-950 sm:text-5xl">Everything you need to manage your wardrobe</p>
       <div class="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
         <div class="relative lg:row-span-2">
           <div class="absolute inset-px rounded-lg bg-white lg:rounded-l-[2rem]" />
@@ -90,7 +90,7 @@ import {
             </div>
             <div class="@container relative min-h-[30rem] w-full grow max-lg:mx-auto max-lg:max-w-sm">
               <div class="absolute inset-x-10 top-10 bottom-0 overflow-hidden rounded-t-[12cqw] border-x-[3cqw] border-t-[3cqw] border-gray-700 bg-gray-900 shadow-2xl">
-                <img class="size-full object-cover object-top" src="https://tailwindui.com/plus-assets/img/component-images/bento-03-mobile-friendly.png" alt="" />
+                <img class="size-full object-cover object-top" src="https://www.theviviennefiles.com/wp-content/uploads/2015/04/Slide1-16.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -117,7 +117,7 @@ import {
               <p class="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">You’re missing a key piece! A versatile blazer or a classic white sneaker could complete more outfits</p>
             </div>
             <div class="@container flex flex-1 items-center max-lg:py-6 lg:pb-2">
-              <img class="h-[min(152px,40cqw)] object-cover" src="https://tailwindui.com/plus-assets/img/component-images/bento-03-security.png" alt="" />
+              <img class="h-[min(152px,40cqw)]  object-fit" src="https://images.pickawood.com/data/user/pfc/2023/07/28/3a55f4d33cb0eeadaf2eb8c6560d0bc6-front.png" alt="" />
             </div>
           </div>
           <div class="pointer-events-none absolute inset-px rounded-lg ring-1 shadow-sm ring-black/5" />
